@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Troy
 
-Career-change student moving from customer experience into **cybersecurity** 🔐, currently studying at City of Glasgow College.
+Career-change student moving from customer experience into **Cyber Security** 🔐, currently studying at City of Glasgow College.
 
 ## ⚙️ What I'm Doing
 - 🐍 Building practical Python projects — ciphers, port scanners, encrypted file vaults
